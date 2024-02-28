@@ -176,12 +176,27 @@ Please visit https://github.com/livedeveloper823/
 ## Google Map API Delivery Site
 <a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-1.png?raw=true)</a>
 <a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-2.png?raw=true)</a> -->
-## Social Media Posting Website like Twitter
+<!-- ## Social Media Posting Website like Twitter
 <a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank"> ![DynamicPostNextJs](https://github-production-user-asset-6210df.s3.amazonaws.com/132613676/261828317-621bc937-a2a7-461c-aa42-e59d0a60839f.png)</a>
 <a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank"> ![DynamicPostNextJs](https://github-production-user-asset-6210df.s3.amazonaws.com/132613676/261828265-89363f4b-19b1-484d-b597-961bcc14efdf.png)</a>
 <a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank">![DynamicPostNextJs](https://user-images.githubusercontent.com/132613676/260521935-fb82809d-2a4d-4d7c-92cb-ae338b260544.png?raw=true)</a>
 ## Freelancer Account Creating Bot
-<a href="https://github.com/seniorcoder72/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a>
+<a href="https://github.com/seniorcoder72/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a> -->
 <!-- ## Theme & Dashboard
 <a href="https://github.com/seniorcoder72/Kanban-React" target="_blank">![KanbanReact](https://raw.githubusercontent.com/seniorcoder72/Kanban-React/master/img/img1.jpg?raw=true)</a> -->
 
+## Casino Site
+<video controls src="casino.mp4" title="Title"></video>
+
+## React Front-End
+![alt text](<react/Annotation 2024-01-15 062702.png>)
+![alt text](<react/Annotation 2024-01-15 062755.png>)
+![alt text](<react/Annotation 2024-01-15 062816.png>)
+
+## Game Ads and Sells
+### - Home Page
+![alt text](Game-Selling/proyecto-web.png)
+### - Other Pages
+![alt text](Game-Selling/menu-ordenes.png)
+![alt text](Game-Selling/Metodos-de-pagos.png)
+![alt text](Game-Selling/Perfil-de-usuario.png)
