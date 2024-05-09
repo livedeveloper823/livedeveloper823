@@ -33,6 +33,12 @@ Please visit https://github.com/livedeveloper823/
 <a href="https://github.com/livedeveloper823" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<a href="https://web.telegram.org/a/#-1002027806217_7645" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://web.whatsapp.com/" target="_blank">
+<img src=https://img.shields.io/badge/whatsapp-%2324292e.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
   
 
 
