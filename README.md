@@ -180,13 +180,11 @@ Please visit https://github.com/livedeveloper823/
 
 ## React Front-End
 ![alt text](<react/Annotation 2024-01-15 062702.png>)
-![alt text](<react/Annotation 2024-01-15 062755.png>)
-![alt text](<react/Annotation 2024-01-15 062816.png>)
+
 
 ## Game Ads and Sells
 ### - Home Page
 ![alt text](Game-Selling/proyecto-web.png)
 ### - Other Pages
 ![alt text](Game-Selling/menu-ordenes.png)
-![alt text](Game-Selling/Metodos-de-pagos.png)
-![alt text](Game-Selling/Perfil-de-usuario.png)
+
