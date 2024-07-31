@@ -167,24 +167,3 @@ Please visit https://github.com/livedeveloper823/
 
 <br/>  
 
-# Do you want to see my past work?
-## Trademarktoday Business Website
-<a href="https://github.com/livedeveloper823/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
-<a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
-
-## Freelancer Account Creating Bot
-<a href="https://github.com/seniorcoder72/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a>
-
-## Casino Site
-<video controls src="casino.mp4" title="Title"></video>
-
-## React Front-End
-![alt text](<react/Annotation 2024-01-15 062702.png>)
-
-
-## Game Ads and Sells
-### - Home Page
-![alt text](Game-Selling/proyecto-web.png)
-### - Other Pages
-![alt text](Game-Selling/menu-ordenes.png)
-
