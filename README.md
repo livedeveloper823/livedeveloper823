@@ -150,9 +150,9 @@ Please visit https://github.com/livedeveloper823/
 <br/>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=livedeveloper823&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=livedeveloper823&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=livedeveloper823&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+// ![](https://github-readme-stats.vercel.app/api?username=livedeveloper823&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+// ![](https://github-readme-streak-stats.herokuapp.com/?user=livedeveloper823&theme=dark&hide_border=false)<br/>
+// ![](https://github-readme-stats.vercel.app/api/top-langs/?username=livedeveloper823&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p align="center">
   <a href="https://github.com/livedeveloper823?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=livedeveloper823&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=false&count_private=false"  width="48%" alt="@livedeveloper823's github-readme-stats-one-bice"/>
@@ -168,8 +168,6 @@ Please visit https://github.com/livedeveloper823/
       src="https://github-readme-activity-graph.vercel.app/graph?username=livedeveloper823&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
       width="95%" alt="activity graph">
   </a>
-</p>
-<p align="center">
   <a>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=livedeveloper823&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
