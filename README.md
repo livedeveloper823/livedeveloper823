@@ -169,6 +169,13 @@ Please visit https://github.com/livedeveloper823/
       width="95%" alt="activity graph">
   </a>
 </p>
+<p align="center">
+  <a>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=livedeveloper823&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+      width="95%" alt="activity graph">
+  </a>
+</p>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=livedeveloper823&theme=radical&no-frame=false&no-bg=true&margin-w=4)
