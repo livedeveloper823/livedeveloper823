@@ -5,3 +5,11 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+#### 🏆 Github Status
+
+![My Github Status](https://github-readme-stats.vercel.app/api?username=livedeveloper823&show_icons=true&hide_border=true&count_private=true&theme=dark&x=ygg)
+
+#### 👀 Active Repo
+
+// [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=livedeveloper823&repo=dakia&theme=dark&a=ybhghh)](https://github.com/livedeveloper823/dakia)
