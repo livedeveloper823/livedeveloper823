@@ -12,4 +12,4 @@
 
 #### 👀 Active Repo
 
-// [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=livedeveloper823&repo=dakia&theme=dark&a=ybhghh)](https://github.com/livedeveloper823/dakia)
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=livedeveloper823&repo=dakia&theme=dark&a=ybhghh)]
